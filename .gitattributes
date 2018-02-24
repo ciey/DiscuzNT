@@ -10,8 +10,8 @@
 # default for csharp files.
 # Note: This is only used by command line
 ###############################################################################
-*.cs     diff=csharp  linguist-language=C#
-
+*.cs     diff=csharp  
+*.cs     linguist-language=C#
 ###############################################################################
 # Set the merge driver for project and solution files
 #
